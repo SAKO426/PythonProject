@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6eefaf93-c595-436a-bd12-d1678e5f5622" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esimerkkejä/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esimerkkejä/.idea/Esimerkkejä.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esimerkkejä/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esimerkkejä/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esimerkkejä/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esimerkkejä/7-date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esimerkkejä/Henkilötunnus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esimerkkejä/Merkkijonot_ja_virheenkäsittely.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esimerkkejä/boolean_funktiot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esimerkkejä/if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esimerkkejä/splittaaminen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esimerkkejä/splittaaminen_valmistuskoodi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esimerkkejä/virheenkäsittely.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/.idea/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/2.Suorakulmion_pinta-ala_Deguggaus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/3.sisennys_virheet_harjoitus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/4.Name_error_harjoitus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/5.type_error_harjoitus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/6-logic_error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/7.calculator_bug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/Coding_conventions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/Debuggaustehtävä.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/Pörssisähkölaskuri_testi_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/Wor_Length_Debugging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/grade_checker_bug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/number_counter_bug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject11111/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject11111/.idea/PythonProject11111.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject11111/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject11111/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject11111/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProject11111/firstapp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät 3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät 3/.idea/Viikkotehtävät 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät 3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät 3/Arvosanalaskuri.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät 3/Ehtolauseet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät 3/Karkausvuoden_laskeminen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät 3/Päivän_lämpötila.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät 3/Viikkopalkka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät 3/postihintalaskuri.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät.1 ja Esimerkit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät.1 ja Esimerkit/.idea/Esimerkit1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät.1 ja Esimerkit/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät.1 ja Esimerkit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät.1 ja Esimerkit/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät.1 ja Esimerkit/1.Tulostus_matikka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät.1 ja Esimerkit/Viikkotehtävät_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät.1 ja Esimerkit/muuttujat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_2.py/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_2.py/.idea/Viikkotehtävät_2.py.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_2.py/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_2.py/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_2.py/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_2.py/2.asteen_yhtälön_ratkaiseminen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_2.py/Ajoneuvon_polttoaineenkulutus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_2.py/Hypotenuusan_pituus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_2.py/Kuukausipalkka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_2.py/Pallon_tilavuus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_2.py/Satunnaisluvut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_2.py/Särmiön_tilavuus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_4/Jako_ohjelma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_4/Merkkijonojen käsittely,_virheenkäsittely,_Boolean-muuttujat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_4/Palindromi_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_4/jaollinen_kolme_ja_viisi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_5/12kk_sademäärä_laskuri.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_5/Sama_mutta_FOR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_5/Silmukka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_5/Tulos_luvut_1-50_allekkain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_5/Ympyrän_säde.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_5/caesarin_salakirjoitus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_5/dict_pulp_fiction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_5/kaupungit_lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_5/tuotetunnisteet_lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_5/tuple_kuukaudet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_6/1.Silmukka_1-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_6/2.Kertotaulu_1-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_6/3.Koetulokset_tilastointi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_6/4.Lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_6/5.Onko_jaollinen_luvulla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_6/6.salasanageneraattori.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_6/7.numerot_sanoiksi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_7/Imag_cafe_ry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_7/Inventory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_7/elokuva_lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_7/elokuva_lista_järjestyksessä.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_7/keskimääräinen_tuulennopeus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_7/ostosten_kuitti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_7/ravintola_kokoelma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_7/säätiedot_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Viikkotehtävät_7/test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="3LHTNrfeQf8v9cMYZQ7YKvcC1P0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/samuk/PycharmProjects/PythonProject",
+    "settings.editor.selected.configurable": "settings.sync"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samuk\PycharmProjects\PythonProject" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6eefaf93-c595-436a-bd12-d1678e5f5622" name="Changes" comment="" />
+      <created>1793109956209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793109956209</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Esimerkkejä/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Ohjelmoinnin_työkalut_ja_käyttäjäkokemus/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/PythonProject11111/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Viikkotehtävät 3/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Viikkotehtävät.1 ja Esimerkit/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Viikkotehtävät_2.py/.venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="~\PycharmProjects\PythonProject\.venv" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PackageRequirementsSettings" />
+  <component name="PyDocumentationSettings" />
+  <component name="ReSTService" />
+  <component name="TestRunnerService" />
+</module>
